@@ -21,7 +21,7 @@
                 font-family: 'League Spartan', sans-serif;
             }
 
-.rate1-div{
+.rate1{
                 font-family: 'League Spartan', sans-serif;
                 color: hsl(300, 43%, 22%);
                 font-size: medium;
@@ -36,7 +36,7 @@
 
             }
 
-.rate2-div{
+.rate2{
                 font-family: 'League Spartan', sans-serif;
                 color: hsl(300, 43%, 22%);
                 font-size: medium;
@@ -51,7 +51,7 @@
                 
 }
 
-.rate3-div{
+.rate3{
                 font-family: 'League Spartan', sans-serif;
                 color: hsl(300, 43%, 22%);
                 font-size: medium;
@@ -72,14 +72,7 @@
                 
 }
 
-.bottom-div1{
-                position: absolute;
-                left: 150px;
-                background-color: hsl(300, 43%, 22%);
-                border-radius: 10px;
-                width: 350px;
-                height: 250px;
-}
+
 .img-1{
     float: left;
     
@@ -101,7 +94,8 @@
     font-family: 'League Spartan', sans-serif ;
     
 }
-.bottom-div-paragraph{
+
+.card-artical{
     font-family: 'League Spartan', 'sans-serif';
     font-size: 16px;
     margin-left: 20px;
@@ -112,7 +106,16 @@
     font-weight: 300;
 }
 
-.bottom-div2{
+.bottom-article1{
+    position: absolute;
+    left: 150px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 10px;
+    width: 350px;
+    height: 250px;
+}
+
+.bottom-article2{
                 position: absolute;
                 left: 580px;
                 top: 25px;
@@ -125,7 +128,7 @@
 }
 
 
-.bottom-div3{
+.bottom-article3{
                 position: absolute;
                 left: 1000px;
                 top: 50px;
@@ -135,3 +138,4 @@
                 height: 250px;
 
 }
+
